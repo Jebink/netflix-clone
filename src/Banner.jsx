@@ -46,6 +46,7 @@ function Banner() {
             {/* div> 2 butons */}
             {/* description */}
             </div>
+            <div className="banner__fadeBottom"></div>
         </header>
     )
 }
